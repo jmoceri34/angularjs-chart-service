@@ -24,8 +24,8 @@
     "angular-chart.js": "^1.1.1",
     "angular-resource": "1.7.x",
     "angular-route": "1.7.x",
-    "bootstrap": "3.3.x",
-    "jquery": "3.4.x"
+    "jquery": "3.4.x",
+    "bootstrap": "3.4.x",
   },
   "devDependencies": {
     "angular-mocks": "1.7.x",
