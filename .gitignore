@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+
+logs/*
+!.gitkeep
+node_modules/
+app/lib/
+tmp
+.DS_Store
+.idea
+angularjs-chart-service-snapshots
