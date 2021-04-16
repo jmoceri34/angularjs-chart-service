@@ -8,7 +8,7 @@
 
 <a name="overview"></a>
 ## Overview
-This is an AngularJS service wrapper for angular-chart.js. Please refer to the [demo](https://jmoceri34.github.io/angularjs-chart-service) for complete project example.
+This is an AngularJS service wrapper for angular-chart.js. Please refer to the [demo](https://jmoceri34.github.io/angularjs-chart-service) for complete example.
 
 <a name="install"></a>
 ## Install
